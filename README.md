@@ -25,15 +25,6 @@ JavaScript
 <select>
 <option>ICT</option>
 <option>STEM</option>
-Building a Complete Form
-
-Back Next
-
-TERM 1
-1.7 HTML Forms
-
-Preview
-
 <option>ABM</option>
 </select>
 <br><br>
