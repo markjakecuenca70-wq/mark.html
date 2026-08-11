@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-
-    <form>
-<label>markjake p. cuenca:</label>
+<form>
+<label>Full Name:</label>
 <input type="text">
 <br><br>
-<label>09097796454:</label>
-<input type="09097796454">
+<label>Password:</label>
+<input type="password">
 <br><br>
 <label>Gender:</label>
 <input type="radio" name="gender">
@@ -25,6 +23,15 @@ JavaScript
 <select>
 <option>ICT</option>
 <option>STEM</option>
+Building a Complete Form
+
+Back Next
+
+TERM 1
+1.7 HTML Forms
+
+Preview
+
 <option>ABM</option>
 </select>
 <br><br>
